@@ -23,7 +23,7 @@ module.exports = {
       },
       backgroundImage:{
         'hero-img':"url('./public/images/desktop/image-header.jpg')",
-        'hero-img-mobile':"./url('public/images/mobile/image-header.jpg')",
+        'hero-img-mobile':"url('./public/images/mobile/image-header.jpg')",
       },
       zIndex:{
         '-10':'-10',
