@@ -22,8 +22,8 @@ module.exports = {
         font2:['Fraunces','sans-serif'],
       },
       backgroundImage:{
-        'hero-img':"url('./images/desktop/image-header.jpg')",
-        'hero-img-mobile':"url('./images/mobile/image-header.jpg')",
+        'hero-img':"url('./public/images/desktop/image-header.jpg')",
+        'hero-img-mobile':"url('./public/images/mobile/image-header.jpg')",
       },
       zIndex:{
         '-10':'-10',
