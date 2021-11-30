@@ -1093,6 +1093,12 @@ video {
   letter-spacing: 0.05em
 }
 
+.center{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .triangle{
   width: 0;
   height: 0;
@@ -1125,6 +1131,10 @@ video {
 
   .md\:w-1\/2{
     width: 50%;
+  }
+
+  .md\:flex-none{
+    flex: none;
   }
 
   .md\:grid-cols-4{
@@ -1260,5 +1270,7 @@ video {
 
 @media (min-width: 1536px){
 }
+
+
 
 
