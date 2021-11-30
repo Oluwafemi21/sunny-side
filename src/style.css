@@ -11,6 +11,10 @@
 .btn{
     @apply rounded-full uppercase font-bold tracking-wider
 }
+.center{
+    @apply flex items-center justify-center;
+}
+
 .triangle{
     width: 0;
     height: 0;
@@ -21,5 +25,7 @@
     right: 0;
     top: -1.5rem;
 }
+
+
 
 
