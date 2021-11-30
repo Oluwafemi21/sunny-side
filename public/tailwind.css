@@ -875,7 +875,7 @@ video {
 }
 
 .bg-hero-img-mobile{
-  background-image: url('/public/images/mobile/image-header.jpg');
+  background-image: url('/sunny-side/public/images/mobile/image-header.jpg');
 }
 
 .bg-cover{
@@ -1150,7 +1150,7 @@ video {
   }
 
   .md\:bg-hero-img{
-    background-image: url('/public/images/desktop/image-header.jpg');
+    background-image: url('/sunny-side/public/images/desktop/image-header.jpg');
   }
 
   .md\:px-4{
