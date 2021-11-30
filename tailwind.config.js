@@ -21,6 +21,9 @@ module.exports = {
         font1:['Barlow','sans-serif'],
         font2:['Fraunces','sans-serif'],
       },
+      backgroundImage:{
+        'hero-img':"url('/public/images/desktop/image-header.jpg')",
+      },
       zIndex:{
         '-10':'-10',
       },
