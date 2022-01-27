@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](public/images/Screenshot (13).png)
+![](sunny-side/public/images/Screenshot (13).png)
 
 ### Links
 
